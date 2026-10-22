@@ -38,7 +38,7 @@ const server = http.createServer((req, res) => {
             <head><meta charset="utf-8"><title>Hakkımda</title></head>
             <body>
                 <h1>Hakkımda</h1>
-                <p>Merhaba, ben Nisanur Erdoğan. Bilgisayar Mühendisliği öğrencisiyim.</p>
+                <p>Merhaba, ben Nisanur Erdoğan. Bilgisayar Mühendisliği öğrencisiyim.Bu sayfa hakkimda dalinda gelistirildi.</p>
                 <p><a href="/">Ana Sayfaya Dön</a></p>
             </body>
             </html>
