@@ -1,16 +1,15 @@
 {
   "name": "bmh231-odev1",
   "version": "1.0.0",
-  "description": "description": "BMH231 Odev 1 - Temel HTTP Sunucusu ve Git Yonetimi",
-  "main": "index.js",
+  "description": "BMH231 Odev 1 - Temel HTTP Sunucusu ve Git Yonetimi",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "dayjs": "^1.11.23"
+    "dayjs": "^1.11.13"
   }
 }
