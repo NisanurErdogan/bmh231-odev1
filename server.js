@@ -25,7 +25,7 @@ const server = http.createServer((req, res) => {
             <html lang="tr">
             <head><meta charset="utf-8"><title>Ana Sayfa</title></head>
             <body>
-                <h1>BMH231 - Main Dali Guncel Baslik</h1>
+                <h1>BMH231 - Web Sunucusu (Guncel Baslik)</h1>
                 <p><a href="/hakkimda">Hakkımda Sayfasına Git</a></p>
             </body>
             </html>
