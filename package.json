@@ -1,7 +1,7 @@
 {
   "name": "bmh231-odev1",
   "version": "1.0.0",
-  "description": "",
+  "description": "description": "BMH231 Odev 1 - Temel HTTP Sunucusu ve Git Yonetimi",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
